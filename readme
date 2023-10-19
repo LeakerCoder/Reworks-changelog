@@ -2,6 +2,7 @@ ChangeLog of 19/10/2023
 Added
 Welcome and leave Plugin 
 Added ticket system via Prefix commands 
+Basic setup of welcome and leave and Suggestion can be setup by doing `/config` 
 
 
 Future Updates will include 
